@@ -2,6 +2,12 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://kejakimpolnews.com/media/news/250415201841-hasil.jpg" Group-title="LIVE EVENTS", LIVE 01
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745422622/ei/vrQIaPOOM9ed4t4P3-zemAg/ip/103.170.22.57/id/qHZHu35EOj8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcOh4ux2XvcGGWwsMjSxJXFh0M4vb5LX3m4RNn4_k2MdxLrQZr5wTGI07uj34tbfyrnztWIaInjK/spc/_S3wKhDRO0J3Xx7rE12vj0ujq4Sg2WxRv36sXExKaecGk3B3DhjMbuqsLzasWBghUyaYpwGBEg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPruzBRngYCNKnsnUQmYk54WYAiBExHMEmpB5AIL2orjAiASmAUjkpih_ug7y6ySwF0cGnj9K9LeB4aDapLmXCGSmA%3D%3D/file/index.m3u8 
+
+
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqvi5iZpj3cxA2DvYWTGGDm1sKZ6WUcM4j3bGPOkXTlSjKnFUPwT6-IsKOWCDsxv_AfeoV9hJ-YVDkpr_EVEb44RliE9BatnKL7eMUf7Up3KuGtMKs5ZFQRTw6e5KmLS1Fvxd03P4boNfC_xMb_ixbBehYhXY6OnSSdX3lUzu4dSs_9ahWri4_BLZvwzW/s700/EVENT%20ONLY.png" group-title="LIVE ONLY",VOLY Hisamitsu Springs W vs Himeji Victorina W
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
 #EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
