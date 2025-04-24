@@ -1437,13 +1437,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 #https://github.com/B-inalm3u-Custom/Dresrossa/raw/refs/heads/B-inal22/mojiTV3.m3u8
 https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/17.ts
 
-#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/QH0wuKV8VcrY1IYyXWcI7EA6V7Q=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg" group-title="PROLIGA", PRO LIGA 2
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
 #EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/2024/02/04/large_red_spark_vs_hillstate_493aec34da.webp" group-title="PROLIGA",KBSN SPORT LIVE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; V2030 Build/SP1A.210812.003)
@@ -1454,9 +1447,6 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lDl1a
 #https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/63.ts
 https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/6.ts
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvsA0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png" group-title="PROLIGA", VOLI TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
-#https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/73.ts
 
 #EXTINF:-1 tvg-id="14" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvsA0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png" group-title="PROLIGA", VOLI TV HD
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
@@ -1477,18 +1467,29 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/16.ts
 
-EXTINF:-1 group-title="PROLIGA" tvg-logo="https://iili.io/30pj83g.png",Jakarta Lavani Livin Transmedia VS Jakarta Bhayangkara Presisi JalaLive
+#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/QH0wuKV8VcrY1IYyXWcI7EA6V7Q=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg" group-title="PROLIGA", PRO LIGA 3
 #EXTVLCOPT:http-origin=https://jlbfpc.jlbfaa.com
 #EXTVLCOPT:http-referrer=https://jlbfpc.jlbfaa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://bf.beijqk.com/live/5004432_hd01.m3u8?txSecret=8c8f869847c0fd5c155ed00291e8ac1e&txTime=680a1154
 
-#EXTINF:-1 group-title="PROLIGA" tvg-logo="https://iili.io/30pj83g.png", Jakarta Lavani Livin Transmedia VS Jakarta Bhayangkara Presisi JalaLive
+#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/QH0wuKV8VcrY1IYyXWcI7EA6V7Q=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg" group-title="PROLIGA", PRO LIGA 4
 #EXTVLCOPT:http-origin=https://jlbfpc.jlbfaa.com
 #EXTVLCOPT:http-referrer=https://jlbfpc.jlbfaa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://bf.shandongjncz.com/live/sd-10-4692671.m3u8?txSecret=e855cc022debc6c95cba745321a561b1&txTime=680a04da
 
+#EXTINF:-1 tvg-id="14" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvsA0eX0cYe_h_rs0Kq5EzuceKR9ebt0KLkdunqy3HnNSp9hEI5HGzYO9omOJNdXREpDP3Pv2iUh6p0Og761HTBAZDc6OAelCOnwkR2n9s-qqUBdv_71jMhSV24i8tIZn0aiDaP4_tXRkwKeSMIJoMW2H1MBPbeImXFPvchRoQPyxRq3SNw-6olichhXKj/s700/MOJI.png" group-title="PROLIGA", VOLI TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
+#https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/73.ts
+
+#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/QH0wuKV8VcrY1IYyXWcI7EA6V7Q=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg" group-title="PROLIGA", PRO LIGA 2
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
                                                                 VISION+ SPORT
 
