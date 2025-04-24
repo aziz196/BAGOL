@@ -1384,6 +1384,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/ind
 
                                                              BRI LIGA 1
 
+#EXTINF:-1 group-title="BRI | LIGA 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", LIGA BRI 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
+https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/18.ts
+
+
 #EXTINF:-1 group-title="BRI | LIGA 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILQsRLN7kxPHIfIeU2JyTXUo4tdYQflsEZw&usqp=CAU", LIGA BRI 4
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
