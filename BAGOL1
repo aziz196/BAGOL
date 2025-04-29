@@ -1,5 +1,0 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
-#EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpidfrmjkt4.transvision.co.id/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png" group-title="📁 Transvision",Bioskop Indonesia
-https://cdnjktbpidfrmjkt4.transvision.co.id/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd?sign=9b3f95e43a30669afcb017440ac2cb2e&time=1745353825
